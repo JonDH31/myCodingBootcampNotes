@@ -53,7 +53,7 @@ git add     - adds a file for inclusion in GIT
 git commit  - notes a change to the local repo
 git push    - sends changes to hosting service.
 git pull    - downloads the freshest version
-git status  - Tells you what stste Git is in
+git status  - Tells you what state Git is in
 ### GIT Directory
     /Documents/coding_class/myCodingBootCampNotes
 ### GIT Repository
@@ -73,4 +73,28 @@ Message Input
 Message #helpful_resources
 
 git status - Tells you what state Git is in
+
+### Cool Terminal Shortcuts:
+
+Up key: goes to the previous command
+Tab key: (while typing a file/folder name): Fills out the filename if it's there and unique
+
+### Special directories:
+
+~/ - User directory (/Users/StampleyFamily)
+../ - One directory up (parent directory)
+./ - current directory
+/ - root directory
+
+### rmdir <directory>
+
+removes or deletes a directory
+
+### cp <targetfile> <destination file>
+
+MOves a file from target to destination
+
+
+
+
 
